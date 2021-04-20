@@ -1,0 +1,15 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    color: white;
+    font-weight: 400;
+    height: 30px;
+    
+}
+
+.freepick {
+    font-size: 8pt;
+    color: gray;
+    text-align: center;
+}
